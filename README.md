@@ -18,11 +18,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Basabjeet-Deb&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)<br/>
-![GitHub streak](https://streak-stats.demolab.com?user=Basabjeet-Deb&theme=dark&hide_border=false)<br/>
+![GitHub streak](https://streak-stats.demolab.com?user=Basabjeet-Deb&theme=dark&hide_border=true)<br/>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basabjeet-Deb&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Basabjeet-Deb&theme=radical&no-frame=true&margin-w=4)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Basabjeet-Deb&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
