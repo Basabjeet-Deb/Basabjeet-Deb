@@ -18,7 +18,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
 [![GitHub stats](https://img.shields.io/badge/GitHub%20Stats-View-1f6feb?style=for-the-badge&logo=github)](https://github.com/Basabjeet-Deb)<br/>
-![GitHub streak](https://streak-stats.demolab.com?user=Basabjeet-Deb&theme=dark&hide_border=true)<br/>
+[![GitHub streak](https://img.shields.io/badge/GitHub%20Streak-View-1f6feb?style=for-the-badge&logo=github)](https://github.com/Basabjeet-Deb)<br/>
 [![Top languages](https://img.shields.io/badge/Top%20Languages-View-1f6feb?style=for-the-badge&logo=github)](https://github.com/Basabjeet-Deb?tab=repositories)
 
 ## 🏆 GitHub Trophies
